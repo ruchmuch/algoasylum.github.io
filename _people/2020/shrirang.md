@@ -19,4 +19,4 @@ championship and gotten into trouble with the law for smuggling. This probably
 sounds more interesting than it actually is. And exactly one of the statements
 in this paragraph is false.
 
-He founded AlgoAsylum as a platform for students to work on interesting projects. And to have fun!
+He has founded AlgoAsylum as a platform for students to do interesting work and generate new ideas. And to have fun!

@@ -11,4 +11,4 @@ A trained Bharatnatyam dancer who also loves to mingle, and aims to build meanin
 
 Her hobbies are breakfast, lunch and dinner. As much as you enjoyed reading that, she definitely enjoys singing, watching series & thriller movies, volunteering and overthinking.
 
-If interested in her work and her engineering journey, let's connect on [LinkedIn](linkedin.com/in/tahiti-dey-8b13b7170)! 
+If interested in her work and her engineering journey, connect with her on [LinkedIn](linkedin.com/in/tahiti-dey-8b13b7170)! 

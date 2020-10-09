@@ -1,7 +1,6 @@
 ---
 name: Soham Joshi
 project: Dyslexia Detection
-         TDA-UMAP
 github: sjoshi5
 profile_picture: "https://github.com/algoasylum/algoasylum.github.io/blob/master/img/people/SohamJ.jpg"
 ---

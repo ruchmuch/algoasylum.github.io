@@ -1,4 +1,5 @@
 ---
+layout: person
 name: Soham Joshi
 project: Dyslexia Detection
 github: sjoshi5

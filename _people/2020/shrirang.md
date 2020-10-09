@@ -3,7 +3,7 @@ layout: person
 name: Shrirang Karandikar
 project: 
 github: algoasylum
-profile_picture: "img/RRAJ4526.JPG"
+profile_picture: "img/shrirang.jpg"
 ---
 
 
@@ -19,4 +19,8 @@ championship and gotten into trouble with the law for smuggling. This probably
 sounds more interesting than it actually is. And exactly one of the statements
 in this paragraph is false.
 
-He has founded AlgoAsylum as a platform for students to do interesting work and generate new ideas. And to have fun!
+He has founded AlgoAsylum as a platform for students to do interesting work and 
+generate new ideas. And to have fun!
+
+His website is at https://shrirang.karandikar.org. 
+

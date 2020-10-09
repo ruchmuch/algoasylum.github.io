@@ -3,7 +3,7 @@ layout: person
 name: Soham Joshi
 project: Dyslexia Detection
 github: sjoshi5
-profile_picture: "https://github.com/algoasylum/algoasylum.github.io/blob/master/img/people/SohamJ.jpg"
+profile_picture: " "../../img/people/SohamJ.jpg".
 ---
 Soham is an undergraduate student who loves mathematics. One of his favorite pastimes is reading fancy mathematical concepts online (although he understands less than half of it in the first go :p). Maths contributes as part of his motivation to work on the [TDA-UMAP](https://github.com/algoasylum/TDA-UMAP) Project which is based on Topological Mathematics and clustering algorithms.
 

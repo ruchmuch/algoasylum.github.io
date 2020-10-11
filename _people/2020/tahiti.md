@@ -5,7 +5,7 @@ project: Air Pollution Monitoring
 github: tahitidey
 profile_picture: "../../img/people/tahiti.jpg"
 ---
-Tahiti is a final year Electronics and Telecommunications engineering student, with her nights more productive than her days. She has interned in one of the Fortune 500 Companies in India and is currently working on the [Air Pollution Monitoring project](https://github.com/algoasylum/PollutionMonitoringKit_InitialSetupPackage) as her final year project at AlgoAsylum. Apart from being an upcoming Design Engineer at Xilinx, technologies like IoT, Cloud Computing and VLSI interests her the most.   
+Tahiti is a final year Electronics and Telecommunications engineering student, with her nights more productive than her days. She has interned in one of the Fortune 500 Companies in India and is currently working on the [Air Pollution Monitoring project](https://github.com/algoasylum/PollutionMonitoringKit_InitialSetupPackage) as her final year project at AlgoAsylum. Technologies like IoT, Cloud Computing and VLSI interests her the most.   
 
 A trained Bharatnatyam dancer who also loves to mingle, and aims to build meaningful and successful relationships with the people around her. 
 

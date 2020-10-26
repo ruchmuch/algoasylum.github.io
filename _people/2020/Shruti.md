@@ -3,6 +3,7 @@ name: Shruti Dixit
 project: Exploration of Machine Learning Algorithms
 github: dixitshru
 profile_picture:"img/people/Shruti.jpeg"
+
 ---
 
 Shruti a jolly Electronics and telecommunication engineer with high ambitions to rule the big data field soon. 

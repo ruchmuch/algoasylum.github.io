@@ -2,7 +2,7 @@
 name: Shruti Dixit
 project: Exploration of Machine Learning Algorithms
 github: dixitshru
-profile_picture:"img/people/Shruti.jpeg"
+profile_picture: ""
 
 ---
 
